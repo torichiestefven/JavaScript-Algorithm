@@ -8,3 +8,4 @@ For now, I already create some algorithm :
   -Reverse String
   -Roman Numeral Conventer
   -Telephone number validator
+  -Make a person data
