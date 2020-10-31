@@ -12,3 +12,4 @@ For now, I already create some algorithm :
   -Largest Number in Array
   -Find missing letters
   -Find longest word in a line
+  -Factorialize a Number
