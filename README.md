@@ -13,3 +13,4 @@ For now, I already create some algorithm :
   -Find missing letters
   -Find longest word in a line
   -Factorialize a Number
+  -Convert HTML Entities
