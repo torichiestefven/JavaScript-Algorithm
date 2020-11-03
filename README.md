@@ -14,3 +14,4 @@ For now, I already create some algorithm :
   -Find longest word in a line
   -Factorialize a Number
   -Convert HTML Entities
+  -Convert Celcius to Fahrenheit
