@@ -1,0 +1,7 @@
+function titleCase(str) {
+  return str.toLowerCase().replace(/(^|\s)\S/g, L => L.toUpperCase());
+}
+
+titleCase("I'm a little tea pot");
+
+// Return the provided string with the first letter of each word capitalized. Make sure the rest of the word is in lower case.
