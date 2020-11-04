@@ -15,3 +15,4 @@ For now, I already create some algorithm :
   -Factorialize a Number
   -Convert HTML Entities
   -Convert Celcius to Fahrenheit
+  -Convert Capital Word
