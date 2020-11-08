@@ -16,3 +16,4 @@ For now, I already create some algorithm :
   -Convert HTML Entities
   -Convert Celcius to Fahrenheit
   -Convert Capital Word
+  -Convert Binary to text
