@@ -17,3 +17,5 @@ For now, I already create some algorithm :
   -Convert Celcius to Fahrenheit
   -Convert Capital Word
   -Convert Binary to text
+  -Cash Register
+  
